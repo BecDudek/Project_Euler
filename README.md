@@ -1,3 +1,3 @@
 # Project_Euler
 
-# A collection of my Project Euler solutions
+A collection of my Project Euler solutions in Python
